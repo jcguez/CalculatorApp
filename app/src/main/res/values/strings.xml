@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    
+    <string name="soap_divisions">Divisiones SOAP</string>
+    <string name="divide">Dividir</string>
+    <string name="number_1">Número 1</string>
+    <string name="number_2">Número 2</string>
+    <string name="result">Resultado: </string>
+</resources>
